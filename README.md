@@ -1,4 +1,4 @@
-# User Management Dashboard
+# Simple Table List
 
 A modern React application featuring a responsive data table with CRUD operations, built with Vite and Bootstrap.
 
@@ -31,28 +31,28 @@ A modern React application featuring a responsive data table with CRUD operation
 
 ## Installation
 
-# 1. Clone the repository:
+## 1. Clone the repository:
 git clone https://github.com/cjx3m/simpleTableList.git
 Install dependencies:
 
 cd simpleTableList
 npm install
 
-# Running the App
+## Running the App
 Development Mode:
 
 npm run dev
 Runs the app in development mode.
 Open http://localhost:5173 to view in browser.
 
-# Preview Build:
+## Preview Build:
 
 bash
 npm run preview
 Locally preview production build.
 
-# Project Structure
-´´´
+## Project Structure
+```
 ├── public/          # Static assets
 ├── src/
 │   ├── components/  # Reusable components
@@ -65,9 +65,9 @@ Locally preview production build.
 ├── package.json
 ├── README.md
 └── vite.config.js
-´´´
+```
 
-# Key Dependencies
+## Key Dependencies
 react: 18.2.0
 
 react-dom: 18.2.0
@@ -76,7 +76,7 @@ bootstrap: 5.3.0
 
 react-icons: 4.10.1
 
-# License
+## License
 MIT License © 2024 Carlos López
 
 Created with ❤️ using React + Vite
