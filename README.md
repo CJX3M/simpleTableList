@@ -52,6 +52,7 @@ npm run preview
 Locally preview production build.
 
 # Project Structure
+´´´
 ├── public/          # Static assets
 ├── src/
 │   ├── components/  # Reusable components
@@ -64,6 +65,7 @@ Locally preview production build.
 ├── package.json
 ├── README.md
 └── vite.config.js
+´´´
 
 # Key Dependencies
 react: 18.2.0
