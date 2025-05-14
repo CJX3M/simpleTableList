@@ -1,0 +1,14 @@
+.table-hover tbody tr.updated-row {
+  animation: highlight-update 1.5s ease-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes highlight-update {
+  0% { background-color: #0cff44; }
+  50% { background-color: #87faa2; }
+  100% { background-color: inherit; }
+}
+  
+.updated-row {
+  animation: highlight-update 1.5s ease-out !important;
+}
